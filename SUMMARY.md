@@ -1,3 +1,3 @@
 # Table of contents
 
-* [chocolatefactory](README.md)
+* [chocolatefactory](chocolateFactory.md)
